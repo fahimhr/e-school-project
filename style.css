@@ -1,0 +1,145 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color {
+    height: 576px;
+    background-color: #F0FFF0;
+}
+
+.navbar-brand img {
+    width: 30%;
+}
+
+.sign-in {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 25px;
+    gap: 10px;
+    color: white;
+
+    width: 104px;
+    height: 43px;
+    left: 1201px;
+    top: 25px;
+
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+
+.col-md-7 img {
+    width: 85%;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+.text-orange {
+    color: #FD511A;
+}
+
+.text-header {
+    font-weight: 900;
+}
+
+.text-green {
+    color: #21B573;
+}
+
+.text-gray {
+    color: #6C6B6B;
+}
+
+.get-started {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 30px;
+    gap: 10px;
+
+    width: 153px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+    color: white;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+
+.col-md-3 img {
+    width: 50%;
+    margin: 20px;
+}
+
+.gap{
+    margin-bottom: 100px;
+}
+
+.triple {
+    padding: 30px;
+    border: none;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+    margin-top: 50px;
+}
+
+.single{
+    padding: 30px;
+    border: none;
+    margin: 15px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0px 11px 18px 0px  lightgray;
+    margin-top: 50px;
+}
+
+.courses{
+    color: #413960;
+    text-align: center;
+    font-weight: 700;
+}
+
+.col-md-4 img{
+    width: 100%;
+}
+
+.h4-modern{
+    color: #413960;
+    margin-top: 30px;
+}
+
+.part-of-3{
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px 0px  lightgray;
+    background-color: white;
+}
+
+.testimonial{
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-md-4.man{
+    width: 15%;
+    margin-left: 200px;
+}
+
+.footer-bg{
+    background: #282531;
+    height: 369px;
+}
+
+.footer-text{
+    color: white;
+    margin-top: 70px;
+    font-style: normal;
+    font-size: smaller;
+}
+
+footer p{
+    margin-top: 100px;
+}
